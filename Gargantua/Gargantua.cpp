@@ -5,5 +5,5 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-std::cout << "What's uuuuup" << std::endl;
+	std::cout << "What's uuuuup" << std::endl;
 }
